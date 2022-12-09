@@ -1,0 +1,19 @@
+[{
+        "img"    : "images/batman.jpg",
+        "title"  : "Bat Man",
+        "caption" : "A playboy billionaire by day, Superhero by night"
+    },
+    
+    {
+        "img"    : "images/riddler.jpg",
+        "title"  : "The Riddler",
+        "caption" : "Affinity for purple and green loves challenging the Dark Knight with cleverly calculated crimes"
+    },
+    
+    {
+        "img"    : "images/catwoman.jfif",
+        "title"  : "Cat Woman",
+        "caption" : "As deadly as she is beautiful"
+    }
+    
+    ]
