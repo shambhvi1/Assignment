@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Image Slider</title>
+    <!--Stylesheet-->
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <div class="image-container"></div>
+        <div class="text-container" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0"></div>
+        <div class="dot-container" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0">
+        </div>
+        <button id="prev" onclick="slider1.prev()" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0"> &lt; </button>
+        <button id="next" onclick="slider1.next()" onmouseover="this.style.opacity=1" onmouseout="this.style.opacity=0"> &gt; </button>
+    </div>
+    
+</body>
+</html>
